@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Sistemas de Informação!</h1>
+        <h1>Jorge Lucas</h1>
     </body>
 </html>
