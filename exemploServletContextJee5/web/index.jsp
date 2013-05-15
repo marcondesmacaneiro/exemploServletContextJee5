@@ -10,11 +10,19 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
+        <script>
+          function alert_rox()
+          {
+            alert("ola amigao");
+          }
+        </script>
     </head>
     <body>
         <h1>Sistemas de Informação!</h1>
         <h1>Jonathan!</h1>
         <h1>Marcondes Maçaneiro!</h1>
         <h2>PHP mano</h2>
+        <input type="button" value="click ae" onclick="alert_rox()">
+        <input >
     </body>
 </html>
